@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/synzen/MonitoRSS-Clone#readme",
   "engines": {
-    "node": "=12.16"
+    "node": "=12.16.3"
   }
 }
